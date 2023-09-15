@@ -1,0 +1,4 @@
+git hit - inicializando um repo git
+git status - verificar o status do repo
+git add - adicionar arquivos ao git
+git add . - adicionar todos arquivos no rastreio do git
