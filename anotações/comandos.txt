@@ -4,4 +4,3 @@ git add - adicionar arquivos ao git
 git add . - adicionar todos arquivos no rastreio do git
 git commit -m - comentar as modificações
 git push - enviar para o github
-a
